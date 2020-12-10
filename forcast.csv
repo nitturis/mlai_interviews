@@ -1,0 +1,6 @@
+current weather,forecast weather, alert
+Sunny ,Sunny,N
+Sunny,Rainy,Y
+Storm,Storm,N
+Sunny,Storm,Y
+Cloud,Scatt-Cloud,Y
